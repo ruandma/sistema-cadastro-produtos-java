@@ -55,4 +55,5 @@ java -cp bin Main
 
 pause
 
+
 Agora, basta dar dois cliques no rodar.bat — ele compila e executa tudo sozinho!
