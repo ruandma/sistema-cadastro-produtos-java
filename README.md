@@ -37,7 +37,7 @@ Projeto desenvolvido para a disciplina de Programação Orientada a Objetos.
 
 ##### 🛠️ Dica extra: crie um script `.bat` para facilitar
 
-1. Crie um arquivo chamado `rodar.bat` na raiz do projeto com este conteúdo:
+Crie um arquivo chamado `rodar.bat` na raiz do projeto com este conteúdo:
 
 ```bat
 @echo off
@@ -53,6 +53,6 @@ if %errorlevel% neq 0 (
 echo Executando...
 java -cp bin Main
 
-pause
+pause```
 
-2. Agora, basta dar dois cliques no rodar.bat — ele compila e executa tudo sozinho!
+Agora, basta dar dois cliques no rodar.bat — ele compila e executa tudo sozinho!
