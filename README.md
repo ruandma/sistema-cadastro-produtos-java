@@ -53,6 +53,7 @@ if %errorlevel% neq 0 (
 echo Executando...
 java -cp bin Main
 
-pause```
+pause
+```
 
 Agora, basta dar dois cliques no rodar.bat — ele compila e executa tudo sozinho!
